@@ -610,7 +610,7 @@ babel-node sendZkgTx.js to_verifier_xxxx.json
 
 > 返回error_code=0表示转账执行成功，返回码含义请参考附录
 
-```json
+```log
 { blockHash: '0x56428caed786cd388fc4a98c2ba1aa0cf5dfe23591c21a1dcbc02480c4431b2a',
   blockNumber: 2,
   contractAddress: '0x0000000000000000000000000000000000000000',
