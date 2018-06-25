@@ -622,7 +622,7 @@ babel-node sendZkgTx.js to_verifier_xxxx.json
 error_code=0
 ```
 
-转账执行成功后，标志着payee_money.json和my_money.json对应的私密资金有效，之后相关的资金拥有者就可花费这些私有资金。
+转账执行成功后，标志着to_payee_xxxx.json和to_myself_xxxx.json对应的私密资金有效，之后相关的资金拥有者就可花费这些私有资金。
 
 **（4）发送to_payee_xxxx.json给接收者**
 
@@ -746,7 +746,7 @@ overseer_public_key="9024aeaad0ad8f4cfb58d90ffc76e4c4e129cf3cdea8ec5de2c68c7cefe
 
 （3）将转账申请单发送到链上
 
-（4）发送payee_money.json给接收者
+（4）发送to_payee_xxxx.json给接收者
 
 
 
@@ -838,7 +838,7 @@ overseer_public_key="9024aeaad0ad8f4cfb58d90ffc76e4c4e129cf3cdea8ec5de2c68c7cefe
 
 （3）将转账申请单发送到链上
 
-（4）发送payee_money.json给接收者
+（4）发送to_payee_xxxx.json给接收者
 
 
 
