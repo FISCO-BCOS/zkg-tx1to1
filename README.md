@@ -105,7 +105,7 @@ S --- s_v1, s_k1 --->|______|---  change_v---> S (S change)
 
 （1）[user：用户](user/README.md)
 
-（2）[FISCO-BCOS节点：验证者](https://github.com/FISCO-BCOS/FISCO-BCOS)
+（2）[FISCO-BCOS节点：验证者](https://github.com/FISCO-BCOS/FISCO-BCOS/tree/master-1.3)
 
 （3）[gov：监管者](gov/README.md)
 
@@ -166,7 +166,7 @@ govdata pkvkgen gpkgen
 
 ### 2.3 FISCO-BCOS节点部署
 
-FISCO-BCOS节点的部署请参考[FISCO-BCOS说明文档](https://github.com/FISCO-BCOS/FISCO-BCOS/blob/master/doc/manual/README.md)，在部署时，需增加两条指令。
+FISCO-BCOS节点的部署请参考[FISCO-BCOS说明文档](https://github.com/FISCO-BCOS/FISCO-BCOS/blob/master-1.3/doc/manual/README.md)，在部署时，需增加两条指令。
 
 > 安装依赖包
 
