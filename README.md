@@ -4,6 +4,8 @@
 
 注意：由于本项目基于的libzkg库目前处于原型验证版阶段，请勿将本项目直接应用于生产环境。
 
+体验最新版基于零知识证明的转账场景，可访问[公开可验证密文账本场景方案](https://wedpr-lab.readthedocs.io/zh_CN/latest/docs/verifiable_confidential_ledger.html)获取最新资源
+
 ## 一、介绍
 
 ### 1.1 角色
